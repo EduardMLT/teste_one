@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Vasyl-Gumeniuk.github.io/goit-js-hw-11",
+  "homepage": "https://EduardMLT.github.io/teste_one",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
+    "build": "parcel build src/*.html --public-url /teste_one/"
   },
   "repository": {
     "type": "git",
